@@ -65,7 +65,7 @@ const ahmet = {
 
 <p align="center">
   <a href="https://github.com/Weltgeistt/leadflow-crm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Weltgeistt&repo=leadflow-crm&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="LeadFlow" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Weltgeistt&repo=leadflow-crm&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="LeadFlow" />
   </a>
 </p>
 
@@ -76,8 +76,8 @@ const ahmet = {
 ### 📈 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Weltgeistt&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Weltgeistt&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed" alt="GitHub streak" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Weltgeistt&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Weltgeistt&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed" alt="GitHub streak" />
 </p>
 
 <p align="center">
