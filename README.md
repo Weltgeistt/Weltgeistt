@@ -70,7 +70,7 @@ const ahmet = {
 </p>
 
 - **[LeadFlow](https://github.com/Weltgeistt/leadflow-crm)** — mini CRM: lead form with instant auto-reply, drag-and-drop pipeline, follow-up reminders, daily digest emails.
-- **InboxPilot** — n8n + Claude workflow that triages incoming email, drafts replies and sends a daily digest *(coming soon)*.
+- **[InboxPilot](https://github.com/Weltgeistt/inboxpilot-n8n)** — n8n + Claude workflow that triages incoming email, drafts replies and sends a daily digest.
 - **Live-stream chat analytics platform** — bots, webhooks, desktop app and a data pipeline handling millions of messages a day across multiple servers *(private)*.
 
 ### 📈 GitHub stats
