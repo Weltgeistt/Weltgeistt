@@ -12,7 +12,7 @@
 
 **Recent work**
 - Real-time analytics platform for live-stream chat — bots, webhooks, a desktop app and a data pipeline handling millions of messages a day across multiple servers.
-- **LeadFlow** — mini CRM with automated follow-ups *(demo, repo coming soon)*
+- [**LeadFlow**](https://github.com/Weltgeistt/leadflow-crm) — mini CRM with automated follow-ups: lead form, drag-and-drop pipeline, reminders, daily digest emails
 - **AI email triage** — n8n workflow that classifies incoming email, drafts replies and sends a daily digest *(demo, coming soon)*
 
 **Stack**
